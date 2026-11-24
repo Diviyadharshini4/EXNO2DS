@@ -181,7 +181,9 @@ sns.heatmap(corr,annot=True,cmap='coolwarm')
 
 <img width="867" height="572" alt="image" src="https://github.com/user-attachments/assets/87342870-1a28-453e-87de-8aaf45e23390" />
 
+# SUMMARY 
 
+In this experiment, I performed Exploratory Data Analysis (EDA) on the Titanic dataset using Python. I used Pandas and NumPy for data handling and numerical operations, and Seaborn and Matplotlib for data visualization. I checked missing values, duplicate records, data types and statistical information to understand the dataset. I used boxplot to identify outliers, countplot and catplot to compare passenger survival based on gender and class, scatterplot and jointplot to study the relationship between Age and Fare, and heatmap to identify correlations between numerical variables. These methods helped me understand the data distribution, patterns and relationships between different variables. Thus, the experiment was successfully completed.
 
 
 
